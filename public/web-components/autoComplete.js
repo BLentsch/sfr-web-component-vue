@@ -14,7 +14,7 @@ template.innerHTML = `
     </style>
     <div id="autocomplete" style="margin: auto;">
         <input type="text" id="textInput" style="width: 100%"/>
-        <div id="suggestions" style="width: 100%; height: 250px; overflow: auto;"></div>
+        <div id="suggestions" style="color: black; width: 100%; height: 250px; overflow: auto;"></div>
     </div>
     `;
 
